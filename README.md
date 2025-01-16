@@ -11,6 +11,7 @@
 - 💡 I’m curious about advancement of **Generative AI**.
 - 📖 I’m currently learning various **RAG Agent**.
 - ❄️ I’m looking to collaborate on **Open Source Projects**.
+- ⛩️ Feel free to visit my portfolio <a href="https://khairul746.github.io/my-portfolio" target="_blank">here</a>
 
 </br>
  
